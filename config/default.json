@@ -1,6 +1,6 @@
 
 {
-  "dbURI": "",
-  "jwtsecret": "your jwt secret",
+  "dbURI": "mongodb://localhost:27017/store-app",
+  "jwtsecret": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9ibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOn0RMHrHDcEfxjoYZgeFONFh7HgV",
   "StripeAPIKey": "YOUR STRIPE SECRET API KEY"
 }
